@@ -1,9 +1,11 @@
 # Saleem Ahmed Assan Fai
 
-**Aspiring DevOps Engineer · Cloud Infrastructure · CI/CD Pipelines**
+**Aspiring DevOps Engineer · Cloud Infrastructure · CI/CD Pipelines · IT Support · Data Analysis**
 
-Computer Science Engineer actively building hands-on experience in AWS, 
-Terraform, Docker, Jenkins, Ansible, and DevOps practices.
+Computer Science Engineer actively building hands-on experience in AWS,
+Terraform, Docker, Jenkins, Ansible, Python, SQL, and DevOps practices.
+
+[LinkedIn](https://www.linkedin.com/in/saleemfai) · 📍 Cameroon
 
 [LinkedIn](https://www.linkedin.com/in/saleemfai) · 📍 Cameroon
 
