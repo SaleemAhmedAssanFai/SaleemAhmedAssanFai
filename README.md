@@ -7,7 +7,6 @@ Terraform, Docker, Jenkins, Ansible, Python, SQL, and DevOps practices.
 
 [LinkedIn](https://www.linkedin.com/in/saleemfai) · 📍 Cameroon
 
-[LinkedIn](https://www.linkedin.com/in/saleemfai) · 📍 Cameroon
 
 ---
 
