@@ -1,62 +1,67 @@
-# Hi, I'm Saleem 👋  
-### Cybersecurity Enthusiast | IAM | Cloud | DevOps
+# Saleem Ahmed Assan Fai
 
-Currently studying Identity & Access Management (Okta / Microsoft Azure)  
-Passionate about Security, Automation & Continuous Learning 🚀
+**Aspiring DevOps Engineer · Cloud Infrastructure · CI/CD Pipelines**
 
-## 👨‍💻 About Me
+Computer Science Engineer actively building hands-on experience in AWS, 
+Terraform, Docker, Jenkins, Ansible, and DevOps practices.
 
-- 🎓 Computer Science Graduate  
-- 🔐 Google Cybersecurity Professional Certified  
-- ☁️ AWS Cloud Practitioner  
-- 🌐 CCNA Certified  
-- 🛠️ Building hands-on labs in Security & Cloud  
-- 📍 Based in Cameroon
-
+[LinkedIn](https://www.linkedin.com/in/saleemfai) · 📍 Cameroon
 
 ---
 
-## 🔐 IAM Projects (Okta / Azure)
-
-- Hybrid Identity Lifecycle Automation (Joiner/Mover/Leaver)  
-- Role-Based Access Control (RBAC)  
-- Conditional Access Policies  
-- Just-in-Time Privileged Access (PIM)  
-- Quarterly Access Review Automation  
-
----
-
-## 🛠 IT Support Projects
-
-- osTicket Help Desk Setup  
-- Active Directory + DNS Configuration  
-- Azure VM Deployment  
-
-AZ-900: Azure Fundamentals  
-🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ 70%
+> **Portfolio Note**
+>
+> The projects in this portfolio are hands-on labs designed to simulate 
+> real-world DevOps workflows. Each project focuses on practical tasks such 
+> as cloud infrastructure provisioning, CI/CD pipeline automation, 
+> containerization, and configuration management.
+> The goal is to demonstrate how a DevOps engineer designs, automates, and 
+> manages systems at scale using industry-standard tools and best practices.
 
 ---
 
-## 📜 Certifications
+## 1 · DevOps Projects
 
-- ✅ MS-900: Microsoft 365 Fundamentals  
-- 🔄 AZ-900: Azure Fundamentals (In Progress)  
-- 🎓 Google Cybersecurity Professional Certificate  
-- 🛡 CompTIA Security+ (Planned)
+| Project | Purpose | Stack | Status |
+|---|---|---|---|
+| [Terraform AWS Infrastructure](https://github.com/SaleemAhmedAssanFai/Terraform) | Provisions a full AWS environment — VPC, subnets, EC2, ECR, ALB, and Auto Scaling Group | Terraform · AWS · HCL | ✅ Complete |
+| CI/CD Pipeline Integration | Builds and deploys a containerized app through a full Jenkins pipeline with SonarQube code quality checks and Ansible configuration management | Jenkins · Docker · ECR · SonarQube · Ansible · Grafana | ✅ Complete |
 
-[Google Cybersecurity Certificate](https://your-link.com)
-[LinkedIn](https://linkedin.com/in/yourprofile)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+> **Focus area:** Automating cloud infrastructure on AWS using Terraform and 
+> integrating a complete CI/CD toolchain — Jenkins, Docker, Ansible, 
+> SonarQube, and Grafana — into a production-style deployment pipeline.
 
+---
 
-## 📊 GitHub Stats
+## 2 · IT Support Projects
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=dark)
+| Project | Notes |
+|---|---|
+| osTicket Help Desk Setup | Ticketing system installation and configuration |
+| Active Directory + DNS Configuration | On-premises AD setup and DNS management |
+| Azure VM Deployment | Cloud VM provisioning on Microsoft Azure |
+| Linux Administration | CLI · Bash scripting · File permissions |
 
-## 🧪 Current Learning
+---
 
-- 🛡 Blue Team Labs  
-- ☁️ AWS IAM Deep Dive  
-- 🐧 Linux Hardening  
-- 🔎 SIEM & Log Analysis
+## 3 · Data Analysis Projects
 
+*Coming soon — Python and SQL data projects in progress.*
+
+---
+
+## 04 · Certifications
+
+**In Progress**
+
+![AZ-900](https://img.shields.io/badge/AZ--900_Azure_Fundamentals-In_Progress-orange?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+**Queued**
+
+![AWS CCP](https://img.shields.io/badge/AWS_Cloud_Practitioner-queued-gray?style=for-the-badge&logo=amazonaws&logoColor=white)
+![CompTIA Security+](https://img.shields.io/badge/CompTIA_Security%2B-queued-gray?style=for-the-badge)
+![Terraform Associate](https://img.shields.io/badge/HashiCorp_Terraform_Associate-queued-gray?style=for-the-badge)
+
+---
+
+[Connect on LinkedIn](https://www.linkedin.com/in/saleemfai)
