@@ -12,12 +12,14 @@ Terraform, Docker, Jenkins, Ansible, Python, SQL, and DevOps practices.
 
 > **Portfolio Note**
 >
-> The projects in this portfolio are hands-on labs designed to simulate 
-> real-world DevOps workflows. Each project focuses on practical tasks such 
-> as cloud infrastructure provisioning, CI/CD pipeline automation, 
-> containerization, and configuration management.
-> The goal is to demonstrate how a DevOps engineer designs, automates, and 
-> manages systems at scale using industry-standard tools and best practices.
+> The projects in this portfolio are hands-on labs designed to simulate
+> real-world workflows across DevOps engineering, IT support, and data analysis.
+> Each project focuses on practical tasks such as cloud infrastructure
+> provisioning, CI/CD pipeline automation, containerization, configuration
+> management, helpdesk administration, and data-driven insights using Python and SQL.
+> The goal is to demonstrate how an engineer designs, automates, and manages
+> systems at scale — while supporting end users and extracting meaning from data
+> — using industry-standard tools and best practices.
 
 ---
 
