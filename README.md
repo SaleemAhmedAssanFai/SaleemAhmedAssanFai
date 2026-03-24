@@ -28,6 +28,7 @@ Terraform, Docker, Jenkins, Ansible, Python, SQL, and DevOps practices.
 | Project | Purpose | Stack | Status |
 |---|---|---|---|
 | [AWS Infrastructure & CI/CD Pipeline](https://github.com/SaleemAhmedAssanFai/Terraform) | Provisions a full AWS environment (VPC, subnets, EC2, ECR, ALB, ASG) and integrates a complete CI/CD toolchain with code quality checks, configuration management, and monitoring | Terraform · Jenkins · Docker · ECR · SonarQube · Ansible · Grafana · AWS | ✅ Complete |
+| [Jenkins Mastery](https://github.com/SaleemAhmedAssanFai/Jenkins_mastery) | Comprehensive hands-on study of Jenkins from the ground up — covering installation, jobs, declarative pipelines, Jenkinsfile, webhooks, agents, and CI/CD automation | Jenkins · GitHub | 🔄 In Progress |
 
 > **Focus area:** Automating cloud infrastructure on AWS using Terraform and 
 > integrating a complete CI/CD toolchain — Jenkins, Docker, Ansible, 
